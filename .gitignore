@@ -1,0 +1,26 @@
+
+# GNAT build artifacts
+*.o
+*.ali
+*.a
+*.so
+*.exe
+
+# Executables (Linux)
+main
+*.out
+
+# GNAT project files - generated
+*.bexch
+
+# IDE files
+.vscode/
+.idea/
+
+# Backup files
+*~
+*.bak
+*.orig
+
+# OS files
+.DS_Store
